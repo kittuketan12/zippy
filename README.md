@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
