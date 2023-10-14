@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Improve Docs arguments tables (#8415)
