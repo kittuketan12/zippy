@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update Colab notebook for YOLOv8.1 (#8660)
